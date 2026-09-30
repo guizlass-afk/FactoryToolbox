@@ -1,0 +1,29 @@
+# Factory Toolbox
+
+Portal das ferramentas de projeto e fabricação: View & Convert, PipeSaver, BestSection e EZNesting.
+
+- Cartões grandes com descrições e links diretos para os quatro projetos.
+- Página responsiva, com navegação por teclado e preferência por movimento reduzido.
+- Doze idiomas, bandeiras locais, preferência salva e leitura RTL em árabe.
+- Ao abrir uma ferramenta, o portal grava o idioma na chave já usada por ela no mesmo domínio GitHub Pages. Se o armazenamento estiver bloqueado, os links continuam funcionando.
+- HTML, CSS e JavaScript sem dependências externas, etapa de build ou serviços de tradução.
+
+## Workspace canônico
+
+`\\192.168.15.73\Users\guizl_rede\compartilhamento\Projetos\Factory Toolbox`
+
+Trabalhar diretamente nesta pasta compartilhada. Este repositório é independente dos repositórios das ferramentas.
+
+## Desenvolvimento
+
+Execute `python -m http.server 8080` nesta pasta e abra `http://localhost:8080`.
+
+Os links e cartões estão em `index.html`; traduções em `translations.js`; comportamento do seletor em `app.js`.
+
+## Publicação
+
+GitHub Pages publica a raiz da branch `main` em https://guizlass-afk.github.io/FactoryToolbox/.
+
+## Validação
+
+`python tests/test_portal.py` requer Python, Playwright e Chrome. Verifica links, idiomas, persistência, teclado, RTL e apresentação em tamanhos de tela diferentes.
