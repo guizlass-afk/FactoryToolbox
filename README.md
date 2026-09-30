@@ -27,3 +27,14 @@ GitHub Pages publica a raiz da branch `main` em https://guizlass-afk.github.io/F
 ## Validação
 
 `python tests/test_portal.py` requer Python, Playwright e Chrome. Verifica links, idiomas, persistência, teclado, RTL e apresentação em tamanhos de tela diferentes.
+
+
+## Aparência
+
+O botão de sol/lua ao lado do idioma alterna os temas claro e escuro. A preferência fica salva em `factorytoolbox-theme`, compartilhada entre as ferramentas no mesmo domínio. Sem escolha salva, o tema acompanha a preferência do sistema. Alterar o tema mantém o projeto e os resultados atuais. A impressão e os arquivos exportados preservam as cores do desenho.
+
+## Licenciamento do código próprio
+
+O código original desta versão tem todos os direitos reservados, conforme `LICENSE`. Esta versão do código próprio não é distribuída sob a licença MIT. As licenças e os avisos de componentes de terceiros são preservados.
+
+Validação integrada de temas: `python tests/test_themes.py`, com os cinco repositórios nas pastas irmãs do compartilhamento. Inclui preferência do sistema, persistência, sincronização entre abas, teclado, rótulos traduzidos, impressão, modelo 3D, folha A4 e regressões dos otimizadores.
