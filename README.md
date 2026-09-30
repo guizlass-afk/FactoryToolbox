@@ -1,8 +1,8 @@
 # Factory Toolbox
 
-Portal das ferramentas de projeto e fabricação: View & Convert, PipeSaver, BestSection e EZNesting.
+Portal das ferramentas de projeto e fabricação: View & Convert, PipeSaver, BestSection, EZNesting e LaymanCAD 2D.
 
-- Cartões grandes com descrições e links diretos para os quatro projetos.
+- Cartões grandes com descrições e links diretos para os cinco projetos.
 - Página responsiva, com navegação por teclado e preferência por movimento reduzido.
 - Doze idiomas, bandeiras locais, preferência salva e leitura RTL em árabe.
 - Ao abrir uma ferramenta, o portal grava o idioma na chave já usada por ela no mesmo domínio GitHub Pages. Se o armazenamento estiver bloqueado, os links continuam funcionando.

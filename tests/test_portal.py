@@ -14,8 +14,8 @@ try:
  with sync_playwright() as p:
   browser=p.chromium.launch(channel='chrome',headless=True);page=browser.new_page(viewport={'width':1366,'height':950});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
   page.goto(f'http://127.0.0.1:{server.server_port}/');page.wait_for_function('document.querySelectorAll("[data-language]").length===12')
-  expected=['ViewAndConvert','PipeSaver','BestSection','EZNesting']
-  assert page.locator('.tool-card').count()==4
+  expected=['ViewAndConvert','PipeSaver','BestSection','EZNesting','LaymanCad2D']
+  assert page.locator('.tool-card').count()==5
   for i,repo in enumerate(expected):assert page.locator('.tool-card').nth(i).get_attribute('href')==f'https://guizlass-afk.github.io/{repo}/'
   translations=page.evaluate('FactoryTranslations');assert len(translations)==12
   for code,values in translations.items():
@@ -34,9 +34,11 @@ try:
   # Exercise real click handling while preventing navigation out of the local test.
   page.locator('.tool-card').first.evaluate("el=>el.addEventListener('click',e=>e.preventDefault())")
   page.locator('.tool-card').first.click();assert page.evaluate("localStorage.getItem('viewconvert-language')")=='en-US'
+  page.locator('.tool-card.layman').evaluate("el=>el.addEventListener('click',e=>e.preventDefault())")
+  page.locator('.tool-card.layman').click();assert page.evaluate("localStorage.getItem('laymancad-language')")=='en-US'
   page.set_viewport_size({'width':390,'height':844});page.screenshot(path=str(Path(os.environ['TEMP'])/'factory-mobile.png'),full_page=True)
   assert not errors,errors
   # Static links and Portuguese descriptions work even when JavaScript is disabled.
-  basic=browser.new_context(java_script_enabled=False).new_page();basic.goto(f'http://127.0.0.1:{server.server_port}/');assert basic.locator('.tool-card').count()==4
-  browser.close();print('PASS: four links, 12 complete languages, four viewport sizes, RTL, keyboard, persistence, language handoff and no-JS navigation.')
+  basic=browser.new_context(java_script_enabled=False).new_page();basic.goto(f'http://127.0.0.1:{server.server_port}/');assert basic.locator('.tool-card').count()==5
+  browser.close();print('PASS: five links, 12 complete languages, four viewport sizes, RTL, keyboard, persistence, language handoff and no-JS navigation.')
 finally:server.shutdown()

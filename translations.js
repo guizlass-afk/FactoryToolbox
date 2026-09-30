@@ -5,7 +5,7 @@ window.FactoryTranslations={
     "accent": "à fabricação.",
     "intro": "Uma coleção de ferramentas práticas para visualizar modelos, planejar cortes e aproveitar melhor o material.",
     "choose": "Escolha sua ferramenta",
-    "count": "4 ferramentas. Um só lugar.",
+    "count": "5 ferramentas. Um só lugar.",
     "cad": "VISUALIZAÇÃO & CONVERSÃO",
     "profiles": "CORTE DE PERFIS",
     "sheets": "SECCIONAMENTO DE CHAPAS",
@@ -23,7 +23,9 @@ window.FactoryTranslations={
     "source": "Código no GitHub",
     "language": "Idioma",
     "skip": "Ir para as ferramentas",
-    "languages": "12 idiomas"
+    "languages": "12 idiomas",
+    "drawing": "DESENHO 2D",
+    "laymanDesc": "Desenhe linhas, retângulos, círculos e arcos com medidas exatas. Exporte em DXF para corte a laser."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -31,7 +33,7 @@ window.FactoryTranslations={
     "accent": "to production.",
     "intro": "Practical tools to view models, plan cuts and make better use of your material.",
     "choose": "Choose your tool",
-    "count": "4 tools. One place.",
+    "count": "5 tools. One place.",
     "cad": "VIEW & CONVERT",
     "profiles": "PROFILE CUTTING",
     "sheets": "PANEL CUTTING",
@@ -49,7 +51,9 @@ window.FactoryTranslations={
     "source": "Code on GitHub",
     "language": "Language",
     "skip": "Skip to tools",
-    "languages": "12 languages"
+    "languages": "12 languages",
+    "drawing": "2D DRAWING",
+    "laymanDesc": "Draw lines, rectangles, circles and arcs with exact dimensions. Export DXF files for laser cutting."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -57,7 +61,7 @@ window.FactoryTranslations={
     "accent": "a la fabricación.",
     "intro": "Herramientas prácticas para visualizar modelos, planificar cortes y aprovechar mejor el material.",
     "choose": "Elige tu herramienta",
-    "count": "4 herramientas. Un solo lugar.",
+    "count": "5 herramientas. Un solo lugar.",
     "cad": "VISUALIZACIÓN Y CONVERSIÓN",
     "profiles": "CORTE DE PERFILES",
     "sheets": "SECCIONADO DE TABLEROS",
@@ -75,7 +79,9 @@ window.FactoryTranslations={
     "source": "Código en GitHub",
     "language": "Idioma",
     "skip": "Ir a las herramientas",
-    "languages": "12 idiomas"
+    "languages": "12 idiomas",
+    "drawing": "DIBUJO 2D",
+    "laymanDesc": "Dibuja líneas, rectángulos, círculos y arcos con medidas exactas. Exporta en DXF para corte láser."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -83,7 +89,7 @@ window.FactoryTranslations={
     "accent": "到制造。",
     "intro": "查看模型、规划切割、提高材料利用率的实用工具。",
     "choose": "选择工具",
-    "count": "4 种工具，一个入口。",
+    "count": "5 种工具，一个入口。",
     "cad": "查看与转换",
     "profiles": "型材切割",
     "sheets": "板材分切",
@@ -101,7 +107,9 @@ window.FactoryTranslations={
     "source": "GitHub 源代码",
     "language": "语言",
     "skip": "跳转到工具",
-    "languages": "12 种语言"
+    "languages": "12 种语言",
+    "drawing": "二维绘图",
+    "laymanDesc": "按精确尺寸绘制直线、矩形、圆和圆弧。导出 DXF 文件用于激光切割。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -109,7 +117,7 @@ window.FactoryTranslations={
     "accent": "निर्माण तक।",
     "intro": "मॉडल देखने, कटिंग की योजना बनाने और सामग्री का बेहतर उपयोग करने के व्यावहारिक उपकरण।",
     "choose": "अपना उपकरण चुनें",
-    "count": "4 उपकरण। एक ही जगह।",
+    "count": "5 उपकरण। एक ही जगह।",
     "cad": "देखें और रूपांतरण करें",
     "profiles": "प्रोफ़ाइल कटिंग",
     "sheets": "शीट कटिंग",
@@ -127,7 +135,9 @@ window.FactoryTranslations={
     "source": "GitHub पर कोड",
     "language": "भाषा",
     "skip": "उपकरणों पर जाएँ",
-    "languages": "12 भाषाएँ"
+    "languages": "12 भाषाएँ",
+    "drawing": "2D ड्रॉइंग",
+    "laymanDesc": "सटीक माप के साथ रेखाएँ, आयत, वृत्त और चाप बनाएँ। लेज़र कटिंग के लिए DXF में निर्यात करें।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -135,7 +145,7 @@ window.FactoryTranslations={
     "accent": "إلى التصنيع.",
     "intro": "أدوات عملية لعرض النماذج وتخطيط القطع والاستفادة الأفضل من المواد.",
     "choose": "اختر أداتك",
-    "count": "4 أدوات. مكان واحد.",
+    "count": "5 أدوات. مكان واحد.",
     "cad": "عرض وتحويل",
     "profiles": "قطع المقاطع",
     "sheets": "تقطيع الألواح",
@@ -153,7 +163,9 @@ window.FactoryTranslations={
     "source": "الكود على GitHub",
     "language": "اللغة",
     "skip": "الانتقال إلى الأدوات",
-    "languages": "12 لغة"
+    "languages": "12 لغة",
+    "drawing": "الرسم ثنائي الأبعاد",
+    "laymanDesc": "ارسم خطوطًا ومستطيلات ودوائر وأقواسًا بأبعاد دقيقة. صدّر بصيغة DXF للقطع بالليزر."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -161,7 +173,7 @@ window.FactoryTranslations={
     "accent": "à la fabrication.",
     "intro": "Des outils pratiques pour visualiser les modèles, planifier les découpes et mieux utiliser les matériaux.",
     "choose": "Choisissez votre outil",
-    "count": "4 outils. Un seul endroit.",
+    "count": "5 outils. Un seul endroit.",
     "cad": "VISUALISATION ET CONVERSION",
     "profiles": "DÉCOUPE DE PROFILÉS",
     "sheets": "DÉBIT DE PANNEAUX",
@@ -179,7 +191,9 @@ window.FactoryTranslations={
     "source": "Code sur GitHub",
     "language": "Langue",
     "skip": "Aller aux outils",
-    "languages": "12 langues"
+    "languages": "12 langues",
+    "drawing": "DESSIN 2D",
+    "laymanDesc": "Dessinez des lignes, rectangles, cercles et arcs aux dimensions exactes. Exportez en DXF pour la découpe laser."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -187,7 +201,7 @@ window.FactoryTranslations={
     "accent": "উৎপাদন পর্যন্ত।",
     "intro": "মডেল দেখা, কাটার পরিকল্পনা ও উপকরণের সর্বোত্তম ব্যবহারের সরঞ্জাম।",
     "choose": "আপনার সরঞ্জাম বেছে নিন",
-    "count": "৪টি সরঞ্জাম। এক জায়গায়।",
+    "count": "৫টি সরঞ্জাম। এক জায়গায়।",
     "cad": "দেখা ও রূপান্তর",
     "profiles": "প্রোফাইল কাটিং",
     "sheets": "শিট কাটিং",
@@ -205,7 +219,9 @@ window.FactoryTranslations={
     "source": "GitHub-এ কোড",
     "language": "ভাষা",
     "skip": "সরঞ্জামে যান",
-    "languages": "১২টি ভাষা"
+    "languages": "১২টি ভাষা",
+    "drawing": "২ডি অঙ্কন",
+    "laymanDesc": "সঠিক মাপে রেখা, আয়তক্ষেত্র, বৃত্ত ও বৃত্তচাপ আঁকুন। লেজার কাটিংয়ের জন্য DXF ফাইল রপ্তানি করুন।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -213,7 +229,7 @@ window.FactoryTranslations={
     "accent": "к производству.",
     "intro": "Практичные инструменты для просмотра моделей, планирования раскроя и экономии материала.",
     "choose": "Выберите инструмент",
-    "count": "4 инструмента. Одно место.",
+    "count": "5 инструментов. Одно место.",
     "cad": "ПРОСМОТР И КОНВЕРТАЦИЯ",
     "profiles": "РАСКРОЙ ПРОФИЛЕЙ",
     "sheets": "РАСКРОЙ ЛИСТОВ",
@@ -231,7 +247,9 @@ window.FactoryTranslations={
     "source": "Код на GitHub",
     "language": "Язык",
     "skip": "Перейти к инструментам",
-    "languages": "12 языков"
+    "languages": "12 языков",
+    "drawing": "2D-ЧЕРЧЕНИЕ",
+    "laymanDesc": "Создавайте линии, прямоугольники, окружности и дуги с точными размерами. Экспортируйте в DXF для лазерной резки."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -239,7 +257,7 @@ window.FactoryTranslations={
     "accent": "zur Fertigung.",
     "intro": "Praktische Werkzeuge zum Anzeigen von Modellen, Planen von Zuschnitten und besseren Nutzen von Material.",
     "choose": "Werkzeug auswählen",
-    "count": "4 Werkzeuge. Ein Ort.",
+    "count": "5 Werkzeuge. Ein Ort.",
     "cad": "ANZEIGEN & KONVERTIEREN",
     "profiles": "PROFILZUSCHNITT",
     "sheets": "PLATTENZUSCHNITT",
@@ -257,7 +275,9 @@ window.FactoryTranslations={
     "source": "Code auf GitHub",
     "language": "Sprache",
     "skip": "Zu den Werkzeugen",
-    "languages": "12 Sprachen"
+    "languages": "12 Sprachen",
+    "drawing": "2D-ZEICHNEN",
+    "laymanDesc": "Zeichnen Sie Linien, Rechtecke, Kreise und Bögen mit exakten Maßen. Exportieren Sie DXF-Dateien für den Laserschnitt."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -265,7 +285,7 @@ window.FactoryTranslations={
     "accent": "alla produzione.",
     "intro": "Strumenti pratici per visualizzare modelli, pianificare tagli e sfruttare meglio il materiale.",
     "choose": "Scegli il tuo strumento",
-    "count": "4 strumenti. Un solo posto.",
+    "count": "5 strumenti. Un solo posto.",
     "cad": "VISUALIZZAZIONE E CONVERSIONE",
     "profiles": "TAGLIO DI PROFILI",
     "sheets": "SEZIONATURA DI PANNELLI",
@@ -283,7 +303,9 @@ window.FactoryTranslations={
     "source": "Codice su GitHub",
     "language": "Lingua",
     "skip": "Vai agli strumenti",
-    "languages": "12 lingue"
+    "languages": "12 lingue",
+    "drawing": "DISEGNO 2D",
+    "laymanDesc": "Disegna linee, rettangoli, cerchi e archi con misure esatte. Esporta in DXF per il taglio laser."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -291,7 +313,7 @@ window.FactoryTranslations={
     "accent": "製造まで。",
     "intro": "モデル表示、切断計画、材料の有効活用に役立つツール集。",
     "choose": "ツールを選択",
-    "count": "4つのツールを、ひとつの場所に。",
+    "count": "5つのツールを、ひとつの場所に。",
     "cad": "表示・変換",
     "profiles": "形材の切断",
     "sheets": "板材の切断",
@@ -309,6 +331,8 @@ window.FactoryTranslations={
     "source": "GitHubのソースコード",
     "language": "言語",
     "skip": "ツールへスキップ",
-    "languages": "12言語"
+    "languages": "12言語",
+    "drawing": "2D作図",
+    "laymanDesc": "正確な寸法で直線、長方形、円、円弧を描画。レーザー加工用にDXF形式で出力できます。"
   }
 };

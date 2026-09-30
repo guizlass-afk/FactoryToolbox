@@ -69,3 +69,5 @@ html[data-theme=dark] .card-category,html[data-theme=dark] .card-action{color:va
  html[data-theme=dark] .canvas-wrap{background-color:#111f2a;background-image:radial-gradient(#304959 1px,transparent 1px)}
 }
 @media screen{html[data-theme=dark] .section-heading>span{background:transparent;color:#a9bfcc}}
+
+@media screen{html[data-theme="dark"] .tool-card.layman{--accent:#efa28b;--tint:#45332e}}
