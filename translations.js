@@ -5,7 +5,7 @@ window.FactoryTranslations={
     "accent": "à fabricação.",
     "intro": "Uma coleção de ferramentas práticas para visualizar modelos, planejar cortes e aproveitar melhor o material.",
     "choose": "Escolha sua ferramenta",
-    "count": "5 ferramentas. Um só lugar.",
+    "count": "6 ferramentas. Um só lugar.",
     "cad": "VISUALIZAÇÃO & CONVERSÃO",
     "profiles": "CORTE DE PERFIS",
     "sheets": "SECCIONAMENTO DE CHAPAS",
@@ -25,7 +25,14 @@ window.FactoryTranslations={
     "skip": "Ir para as ferramentas",
     "languages": "12 idiomas",
     "drawing": "DESENHO 2D",
-    "laymanDesc": "Desenhe linhas, retângulos, círculos e arcos com medidas exatas. Exporte em DXF para corte a laser."
+    "laymanDesc": "Desenhe linhas, retângulos, círculos e arcos com medidas exatas. Exporte em DXF para corte a laser.",
+    "qualityLabel": "QUALIDADE & MELHORIA",
+    "qualityDesc": "Preencha modelos de PPAP, APQP, FMEA, CEP, MSA e análise de causas. Exporte para Excel com fórmulas editáveis.",
+    "qualityOpen": "Ver ferramentas",
+    "quality_control": "Plano de Controle",
+    "quality_flow": "Fluxo de Processo",
+    "quality_cep": "CEP · I-MR",
+    "quality_why": "5 Porquês"
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -33,7 +40,7 @@ window.FactoryTranslations={
     "accent": "to production.",
     "intro": "Practical tools to view models, plan cuts and make better use of your material.",
     "choose": "Choose your tool",
-    "count": "5 tools. One place.",
+    "count": "6 tools. One place.",
     "cad": "VIEW & CONVERT",
     "profiles": "PROFILE CUTTING",
     "sheets": "PANEL CUTTING",
@@ -53,7 +60,14 @@ window.FactoryTranslations={
     "skip": "Skip to tools",
     "languages": "12 languages",
     "drawing": "2D DRAWING",
-    "laymanDesc": "Draw lines, rectangles, circles and arcs with exact dimensions. Export DXF files for laser cutting."
+    "laymanDesc": "Draw lines, rectangles, circles and arcs with exact dimensions. Export DXF files for laser cutting.",
+    "qualityLabel": "QUALITY & IMPROVEMENT",
+    "qualityDesc": "Fill PPAP, APQP, FMEA, SPC, MSA and root cause templates. Export to Excel with editable formulas.",
+    "qualityOpen": "Explore tools",
+    "quality_control": "Control Plan",
+    "quality_flow": "Process Flow",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 Whys"
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -61,7 +75,7 @@ window.FactoryTranslations={
     "accent": "a la fabricación.",
     "intro": "Herramientas prácticas para visualizar modelos, planificar cortes y aprovechar mejor el material.",
     "choose": "Elige tu herramienta",
-    "count": "5 herramientas. Un solo lugar.",
+    "count": "6 herramientas. Un solo lugar.",
     "cad": "VISUALIZACIÓN Y CONVERSIÓN",
     "profiles": "CORTE DE PERFILES",
     "sheets": "SECCIONADO DE TABLEROS",
@@ -81,7 +95,14 @@ window.FactoryTranslations={
     "skip": "Ir a las herramientas",
     "languages": "12 idiomas",
     "drawing": "DIBUJO 2D",
-    "laymanDesc": "Dibuja líneas, rectángulos, círculos y arcos con medidas exactas. Exporta en DXF para corte láser."
+    "laymanDesc": "Dibuja líneas, rectángulos, círculos y arcos con medidas exactas. Exporta en DXF para corte láser.",
+    "qualityLabel": "CALIDAD Y MEJORA",
+    "qualityDesc": "Complete modelos de PPAP, APQP, FMEA, CEP, MSA y análisis de causas. Exporte a Excel con fórmulas editables.",
+    "qualityOpen": "Ver herramientas",
+    "quality_control": "Plan de Control",
+    "quality_flow": "Flujo de Proceso",
+    "quality_cep": "CEP · I-MR",
+    "quality_why": "5 Porqués"
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -89,7 +110,7 @@ window.FactoryTranslations={
     "accent": "到制造。",
     "intro": "查看模型、规划切割、提高材料利用率的实用工具。",
     "choose": "选择工具",
-    "count": "5 种工具，一个入口。",
+    "count": "6 种工具，一个入口。",
     "cad": "查看与转换",
     "profiles": "型材切割",
     "sheets": "板材分切",
@@ -109,7 +130,14 @@ window.FactoryTranslations={
     "skip": "跳转到工具",
     "languages": "12 种语言",
     "drawing": "二维绘图",
-    "laymanDesc": "按精确尺寸绘制直线、矩形、圆和圆弧。导出 DXF 文件用于激光切割。"
+    "laymanDesc": "按精确尺寸绘制直线、矩形、圆和圆弧。导出 DXF 文件用于激光切割。",
+    "qualityLabel": "质量与改进",
+    "qualityDesc": "填写 PPAP、APQP、FMEA、SPC、MSA 和根因分析模板。导出带可编辑公式的 Excel。",
+    "qualityOpen": "查看工具",
+    "quality_control": "控制计划",
+    "quality_flow": "过程流程",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 个为什么"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -117,7 +145,7 @@ window.FactoryTranslations={
     "accent": "निर्माण तक।",
     "intro": "मॉडल देखने, कटिंग की योजना बनाने और सामग्री का बेहतर उपयोग करने के व्यावहारिक उपकरण।",
     "choose": "अपना उपकरण चुनें",
-    "count": "5 उपकरण। एक ही जगह।",
+    "count": "6 उपकरण। एक ही जगह।",
     "cad": "देखें और रूपांतरण करें",
     "profiles": "प्रोफ़ाइल कटिंग",
     "sheets": "शीट कटिंग",
@@ -137,7 +165,14 @@ window.FactoryTranslations={
     "skip": "उपकरणों पर जाएँ",
     "languages": "12 भाषाएँ",
     "drawing": "2D ड्रॉइंग",
-    "laymanDesc": "सटीक माप के साथ रेखाएँ, आयत, वृत्त और चाप बनाएँ। लेज़र कटिंग के लिए DXF में निर्यात करें।"
+    "laymanDesc": "सटीक माप के साथ रेखाएँ, आयत, वृत्त और चाप बनाएँ। लेज़र कटिंग के लिए DXF में निर्यात करें।",
+    "qualityLabel": "गुणवत्ता और सुधार",
+    "qualityDesc": "PPAP, APQP, FMEA, SPC, MSA और मूल कारण विश्लेषण के टेम्पलेट भरें। संपादन योग्य सूत्रों सहित Excel निर्यात करें।",
+    "qualityOpen": "उपकरण देखें",
+    "quality_control": "नियंत्रण योजना",
+    "quality_flow": "प्रक्रिया प्रवाह",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 क्यों"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -145,7 +180,7 @@ window.FactoryTranslations={
     "accent": "إلى التصنيع.",
     "intro": "أدوات عملية لعرض النماذج وتخطيط القطع والاستفادة الأفضل من المواد.",
     "choose": "اختر أداتك",
-    "count": "5 أدوات. مكان واحد.",
+    "count": "6 أدوات. مكان واحد.",
     "cad": "عرض وتحويل",
     "profiles": "قطع المقاطع",
     "sheets": "تقطيع الألواح",
@@ -165,7 +200,14 @@ window.FactoryTranslations={
     "skip": "الانتقال إلى الأدوات",
     "languages": "12 لغة",
     "drawing": "الرسم ثنائي الأبعاد",
-    "laymanDesc": "ارسم خطوطًا ومستطيلات ودوائر وأقواسًا بأبعاد دقيقة. صدّر بصيغة DXF للقطع بالليزر."
+    "laymanDesc": "ارسم خطوطًا ومستطيلات ودوائر وأقواسًا بأبعاد دقيقة. صدّر بصيغة DXF للقطع بالليزر.",
+    "qualityLabel": "الجودة والتحسين",
+    "qualityDesc": "املأ نماذج PPAP وAPQP وFMEA وSPC وMSA وتحليل الأسباب الجذرية. صدّر إلى Excel بصيغ قابلة للتعديل.",
+    "qualityOpen": "عرض الأدوات",
+    "quality_control": "خطة التحكم",
+    "quality_flow": "تدفق العملية",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "لماذا خمس مرات"
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -173,7 +215,7 @@ window.FactoryTranslations={
     "accent": "à la fabrication.",
     "intro": "Des outils pratiques pour visualiser les modèles, planifier les découpes et mieux utiliser les matériaux.",
     "choose": "Choisissez votre outil",
-    "count": "5 outils. Un seul endroit.",
+    "count": "6 outils. Un seul endroit.",
     "cad": "VISUALISATION ET CONVERSION",
     "profiles": "DÉCOUPE DE PROFILÉS",
     "sheets": "DÉBIT DE PANNEAUX",
@@ -193,7 +235,14 @@ window.FactoryTranslations={
     "skip": "Aller aux outils",
     "languages": "12 langues",
     "drawing": "DESSIN 2D",
-    "laymanDesc": "Dessinez des lignes, rectangles, cercles et arcs aux dimensions exactes. Exportez en DXF pour la découpe laser."
+    "laymanDesc": "Dessinez des lignes, rectangles, cercles et arcs aux dimensions exactes. Exportez en DXF pour la découpe laser.",
+    "qualityLabel": "QUALITÉ ET AMÉLIORATION",
+    "qualityDesc": "Remplissez les modèles PPAP, APQP, FMEA, MSP, MSA et d’analyse des causes. Exportez vers Excel avec des formules modifiables.",
+    "qualityOpen": "Voir les outils",
+    "quality_control": "Plan de surveillance",
+    "quality_flow": "Flux du processus",
+    "quality_cep": "MSP · I-MR",
+    "quality_why": "5 Pourquoi"
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -201,7 +250,7 @@ window.FactoryTranslations={
     "accent": "উৎপাদন পর্যন্ত।",
     "intro": "মডেল দেখা, কাটার পরিকল্পনা ও উপকরণের সর্বোত্তম ব্যবহারের সরঞ্জাম।",
     "choose": "আপনার সরঞ্জাম বেছে নিন",
-    "count": "৫টি সরঞ্জাম। এক জায়গায়।",
+    "count": "৬টি সরঞ্জাম। এক জায়গায়।",
     "cad": "দেখা ও রূপান্তর",
     "profiles": "প্রোফাইল কাটিং",
     "sheets": "শিট কাটিং",
@@ -221,7 +270,14 @@ window.FactoryTranslations={
     "skip": "সরঞ্জামে যান",
     "languages": "১২টি ভাষা",
     "drawing": "২ডি অঙ্কন",
-    "laymanDesc": "সঠিক মাপে রেখা, আয়তক্ষেত্র, বৃত্ত ও বৃত্তচাপ আঁকুন। লেজার কাটিংয়ের জন্য DXF ফাইল রপ্তানি করুন।"
+    "laymanDesc": "সঠিক মাপে রেখা, আয়তক্ষেত্র, বৃত্ত ও বৃত্তচাপ আঁকুন। লেজার কাটিংয়ের জন্য DXF ফাইল রপ্তানি করুন।",
+    "qualityLabel": "মান ও উন্নতি",
+    "qualityDesc": "PPAP, APQP, FMEA, SPC, MSA ও মূল কারণ বিশ্লেষণের টেমপ্লেট পূরণ করুন। সম্পাদনাযোগ্য সূত্রসহ Excel রপ্তানি করুন।",
+    "qualityOpen": "সরঞ্জাম দেখুন",
+    "quality_control": "নিয়ন্ত্রণ পরিকল্পনা",
+    "quality_flow": "প্রক্রিয়া প্রবাহ",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "৫ কেন"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -229,7 +285,7 @@ window.FactoryTranslations={
     "accent": "к производству.",
     "intro": "Практичные инструменты для просмотра моделей, планирования раскроя и экономии материала.",
     "choose": "Выберите инструмент",
-    "count": "5 инструментов. Одно место.",
+    "count": "6 инструментов. Одно место.",
     "cad": "ПРОСМОТР И КОНВЕРТАЦИЯ",
     "profiles": "РАСКРОЙ ПРОФИЛЕЙ",
     "sheets": "РАСКРОЙ ЛИСТОВ",
@@ -249,7 +305,14 @@ window.FactoryTranslations={
     "skip": "Перейти к инструментам",
     "languages": "12 языков",
     "drawing": "2D-ЧЕРЧЕНИЕ",
-    "laymanDesc": "Создавайте линии, прямоугольники, окружности и дуги с точными размерами. Экспортируйте в DXF для лазерной резки."
+    "laymanDesc": "Создавайте линии, прямоугольники, окружности и дуги с точными размерами. Экспортируйте в DXF для лазерной резки.",
+    "qualityLabel": "КАЧЕСТВО И УЛУЧШЕНИЕ",
+    "qualityDesc": "Заполните шаблоны PPAP, APQP, FMEA, SPC, MSA и анализа причин. Экспортируйте в Excel с редактируемыми формулами.",
+    "qualityOpen": "Открыть инструменты",
+    "quality_control": "План управления",
+    "quality_flow": "Схема процесса",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 Почему"
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -257,7 +320,7 @@ window.FactoryTranslations={
     "accent": "zur Fertigung.",
     "intro": "Praktische Werkzeuge zum Anzeigen von Modellen, Planen von Zuschnitten und besseren Nutzen von Material.",
     "choose": "Werkzeug auswählen",
-    "count": "5 Werkzeuge. Ein Ort.",
+    "count": "6 Werkzeuge. Ein Ort.",
     "cad": "ANZEIGEN & KONVERTIEREN",
     "profiles": "PROFILZUSCHNITT",
     "sheets": "PLATTENZUSCHNITT",
@@ -277,7 +340,14 @@ window.FactoryTranslations={
     "skip": "Zu den Werkzeugen",
     "languages": "12 Sprachen",
     "drawing": "2D-ZEICHNEN",
-    "laymanDesc": "Zeichnen Sie Linien, Rechtecke, Kreise und Bögen mit exakten Maßen. Exportieren Sie DXF-Dateien für den Laserschnitt."
+    "laymanDesc": "Zeichnen Sie Linien, Rechtecke, Kreise und Bögen mit exakten Maßen. Exportieren Sie DXF-Dateien für den Laserschnitt.",
+    "qualityLabel": "QUALITÄT & VERBESSERUNG",
+    "qualityDesc": "Füllen Sie Vorlagen für PPAP, APQP, FMEA, SPC, MSA und Ursachenanalyse aus. Exportieren Sie Excel mit bearbeitbaren Formeln.",
+    "qualityOpen": "Werkzeuge ansehen",
+    "quality_control": "Produktionslenkungsplan",
+    "quality_flow": "Prozessablauf",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 Warum"
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -285,7 +355,7 @@ window.FactoryTranslations={
     "accent": "alla produzione.",
     "intro": "Strumenti pratici per visualizzare modelli, pianificare tagli e sfruttare meglio il materiale.",
     "choose": "Scegli il tuo strumento",
-    "count": "5 strumenti. Un solo posto.",
+    "count": "6 strumenti. Un solo posto.",
     "cad": "VISUALIZZAZIONE E CONVERSIONE",
     "profiles": "TAGLIO DI PROFILI",
     "sheets": "SEZIONATURA DI PANNELLI",
@@ -305,7 +375,14 @@ window.FactoryTranslations={
     "skip": "Vai agli strumenti",
     "languages": "12 lingue",
     "drawing": "DISEGNO 2D",
-    "laymanDesc": "Disegna linee, rettangoli, cerchi e archi con misure esatte. Esporta in DXF per il taglio laser."
+    "laymanDesc": "Disegna linee, rettangoli, cerchi e archi con misure esatte. Esporta in DXF per il taglio laser.",
+    "qualityLabel": "QUALITÀ E MIGLIORAMENTO",
+    "qualityDesc": "Compila modelli PPAP, APQP, FMEA, SPC, MSA e analisi delle cause. Esporta in Excel con formule modificabili.",
+    "qualityOpen": "Vedi gli strumenti",
+    "quality_control": "Piano di Controllo",
+    "quality_flow": "Flusso di Processo",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "5 Perché"
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -313,7 +390,7 @@ window.FactoryTranslations={
     "accent": "製造まで。",
     "intro": "モデル表示、切断計画、材料の有効活用に役立つツール集。",
     "choose": "ツールを選択",
-    "count": "5つのツールを、ひとつの場所に。",
+    "count": "6つのツールを、ひとつの場所に。",
     "cad": "表示・変換",
     "profiles": "形材の切断",
     "sheets": "板材の切断",
@@ -333,6 +410,13 @@ window.FactoryTranslations={
     "skip": "ツールへスキップ",
     "languages": "12言語",
     "drawing": "2D作図",
-    "laymanDesc": "正確な寸法で直線、長方形、円、円弧を描画。レーザー加工用にDXF形式で出力できます。"
+    "laymanDesc": "正確な寸法で直線、長方形、円、円弧を描画。レーザー加工用にDXF形式で出力できます。",
+    "qualityLabel": "品質と改善",
+    "qualityDesc": "PPAP、APQP、FMEA、SPC、MSA、原因分析のテンプレートに入力。編集可能な数式付き Excel を出力できます。",
+    "qualityOpen": "ツールを見る",
+    "quality_control": "コントロールプラン",
+    "quality_flow": "工程フロー",
+    "quality_cep": "SPC · I-MR",
+    "quality_why": "なぜなぜ分析"
   }
 };

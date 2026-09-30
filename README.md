@@ -1,8 +1,8 @@
 # Factory Toolbox
 
-Portal das ferramentas de projeto e fabricação: View & Convert, PipeSaver, BestSection, EZNesting e LaymanCAD 2D.
+Portal das ferramentas de projeto e fabricação: View & Convert, PipeSaver, BestSection, EZNesting, LaymanCAD 2D e Quality ToolBox.
 
-- Cartões grandes com descrições e links diretos para os cinco projetos.
+- Cartões grandes com descrições e links diretos para os seis projetos.
 - Página responsiva, com navegação por teclado e preferência por movimento reduzido.
 - Doze idiomas, bandeiras locais, preferência salva e leitura RTL em árabe.
 - Ao abrir uma ferramenta, o portal grava o idioma na chave já usada por ela no mesmo domínio GitHub Pages. Se o armazenamento estiver bloqueado, os links continuam funcionando.
@@ -38,3 +38,5 @@ O botão de sol/lua ao lado do idioma alterna os temas claro e escuro. A prefer�
 O código original desta versão tem todos os direitos reservados, conforme `LICENSE`. Esta versão do código próprio não é distribuída sob a licença MIT. As licenças e os avisos de componentes de terceiros são preservados.
 
 Validação integrada de temas: `python tests/test_themes.py`, com os cinco repositórios nas pastas irmãs do compartilhamento. Inclui preferência do sistema, persistência, sincronização entre abas, teclado, rótulos traduzidos, impressão, modelo 3D, folha A4 e regressões dos otimizadores.
+
+O cartão Quality ToolBox se expande em dez ferramentas, com links diretos para cada modelo. A preferência de idioma é enviada pela chave `qualitytoolbox-language`.

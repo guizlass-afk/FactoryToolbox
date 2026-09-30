@@ -71,3 +71,7 @@ html[data-theme=dark] .card-category,html[data-theme=dark] .card-action{color:va
 @media screen{html[data-theme=dark] .section-heading>span{background:transparent;color:#a9bfcc}}
 
 @media screen{html[data-theme="dark"] .tool-card.layman{--accent:#efa28b;--tint:#45332e}}
+
+@media screen{html[data-theme="dark"] .tool-card.quality{--accent:#adc0ff;--tint:#293955}}
+
+@media screen{html[data-theme="dark"] .quality-links a{border-color:#324957}}
