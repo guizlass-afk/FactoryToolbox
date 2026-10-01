@@ -36,7 +36,7 @@ window.FactoryTranslations={
     "boltLabel": "FIXADORES & NORMAS",
     "boltDesc": "Consulte parafusos e porcas por norma. Explore dimensões, passos, resistência e pré-furos, com desenhos cotados.",
     "gearLabel": "PERFIS DE ENGRENAGENS",
-    "gearDesc": "Gere perfis de engrenagens retas e helicoidais em DXF, com desenho cotado e instruções de extrusão para CAD 3D."
+    "gearDesc": "Gere engrenagens, cremalheiras e anéis internos em DXF, com desenhos cotados e instruções de extrusão para CAD 3D."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -75,7 +75,7 @@ window.FactoryTranslations={
     "boltLabel": "FASTENERS & STANDARDS",
     "boltDesc": "Look up bolts and nuts by standard. Explore dimensions, pitches, strength and tap drills with dimensioned drawings.",
     "gearLabel": "GEAR PROFILES",
-    "gearDesc": "Generate spur and helical gear profiles in DXF, with dimensioned drawings and extrusion instructions for 3D CAD."
+    "gearDesc": "Generate gears, linear racks and internal rings in DXF, with dimensioned drawings and extrusion instructions for 3D CAD."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -114,7 +114,7 @@ window.FactoryTranslations={
     "boltLabel": "FIJACIONES Y NORMAS",
     "boltDesc": "Consulte tornillos y tuercas por norma. Explore dimensiones, pasos, resistencia y taladros previos con dibujos acotados.",
     "gearLabel": "PERFILES DE ENGRANAJES",
-    "gearDesc": "Genere perfiles de engranajes rectos y helicoidales en DXF, con dibujos acotados e instrucciones de extrusión para CAD 3D."
+    "gearDesc": "Genere engranajes, cremalleras y anillos interiores en DXF, con dibujos acotados e instrucciones de extrusión para CAD 3D."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -153,7 +153,7 @@ window.FactoryTranslations={
     "boltLabel": "紧固件与标准",
     "boltDesc": "按标准查询螺栓与螺母，查看尺寸、螺距、强度及攻丝底孔，并生成尺寸图。",
     "gearLabel": "齿轮齿形",
-    "gearDesc": "生成直齿轮和斜齿轮 DXF 齿形，附带尺寸图和 3D CAD 拉伸说明。"
+    "gearDesc": "生成齿轮、齿条和内齿圈 DXF，附带尺寸图和 3D CAD 拉伸说明。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -192,7 +192,7 @@ window.FactoryTranslations={
     "boltLabel": "फास्टनर और मानक",
     "boltDesc": "मानक के अनुसार बोल्ट और नट देखें। आयाम, पिच, मजबूती और टैप ड्रिल के साथ माप वाले चित्र पाएँ।",
     "gearLabel": "गियर प्रोफ़ाइल",
-    "gearDesc": "सीधे और हेलिकल गियर की DXF प्रोफ़ाइल बनाएँ, आयाम वाले चित्र और 3D CAD एक्सट्रूज़न निर्देशों के साथ।"
+    "gearDesc": "गियर, दाँतेदार रैक और आंतरिक रिंग की DXF बनाएँ, आयाम वाले चित्र और 3D CAD निर्देशों के साथ।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -231,7 +231,7 @@ window.FactoryTranslations={
     "boltLabel": "عناصر التثبيت والمعايير",
     "boltDesc": "ابحث عن المسامير والصواميل حسب المعيار. استكشف الأبعاد وخطوة السن والمقاومة وثقوب القلوظة مع رسوم بالأبعاد.",
     "gearLabel": "مقاطع التروس",
-    "gearDesc": "أنشئ مقاطع تروس مستقيمة وحلزونية بصيغة DXF، مع رسومات بالأبعاد وتعليمات البثق في CAD ثلاثي الأبعاد."
+    "gearDesc": "أنشئ تروسًا وجرائد مسننة وحلقات داخلية بصيغة DXF، مع رسومات بالأبعاد وتعليمات CAD ثلاثي الأبعاد."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -270,7 +270,7 @@ window.FactoryTranslations={
     "boltLabel": "FIXATIONS ET NORMES",
     "boltDesc": "Consultez vis et écrous par norme. Explorez dimensions, pas, résistance et avant-trous avec des dessins cotés.",
     "gearLabel": "PROFILS D’ENGRENAGES",
-    "gearDesc": "Générez des profils de dentures droites et hélicoïdales en DXF, avec dessins cotés et instructions d’extrusion pour la CAO 3D."
+    "gearDesc": "Générez des engrenages, crémaillères et couronnes intérieures en DXF, avec dessins cotés et instructions pour la CAO 3D."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -309,7 +309,7 @@ window.FactoryTranslations={
     "boltLabel": "ফাস্টেনার ও মান",
     "boltDesc": "মান অনুযায়ী বোল্ট ও নাট দেখুন। মাত্রা, পিচ, শক্তি ও ট্যাপ ড্রিলের সঙ্গে মাপযুক্ত চিত্র পান।",
     "gearLabel": "গিয়ার প্রোফাইল",
-    "gearDesc": "সোজা ও হেলিক্যাল গিয়ারের DXF প্রোফাইল তৈরি করুন, মাত্রাসহ অঙ্কন ও 3D CAD এক্সট্রুশন নির্দেশনাসহ।"
+    "gearDesc": "গিয়ার, দাঁতযুক্ত র‍্যাক ও অভ্যন্তরীণ রিংয়ের DXF তৈরি করুন, মাত্রাসহ অঙ্কন ও 3D CAD নির্দেশনাসহ।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -348,7 +348,7 @@ window.FactoryTranslations={
     "boltLabel": "КРЕПЁЖ И СТАНДАРТЫ",
     "boltDesc": "Подбирайте болты и гайки по стандарту. Размеры, шаги, прочность и отверстия под резьбу с размерными чертежами.",
     "gearLabel": "ПРОФИЛИ ЗУБЧАТЫХ КОЛЁС",
-    "gearDesc": "Создавайте профили прямозубых и косозубых колёс в DXF с размерами и инструкциями для построения в 3D CAD."
+    "gearDesc": "Создавайте зубчатые колёса, рейки и внутренние венцы в DXF с размерами и инструкциями для 3D CAD."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -387,7 +387,7 @@ window.FactoryTranslations={
     "boltLabel": "VERBINDUNGSELEMENTE UND NORMEN",
     "boltDesc": "Schrauben und Muttern nach Norm nachschlagen. Maße, Steigungen, Festigkeit und Kernlöcher mit bemaßten Zeichnungen erkunden.",
     "gearLabel": "ZAHNRADPROFILE",
-    "gearDesc": "Erstellen Sie gerade und schräge Zahnradprofile als DXF, mit bemaßten Zeichnungen und Extrusionsanleitung für 3D-CAD."
+    "gearDesc": "Erstellen Sie Zahnräder, Zahnstangen und Innenzahnkränze als DXF, mit bemaßten Zeichnungen und Extrusionsanleitung für 3D-CAD."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -426,7 +426,7 @@ window.FactoryTranslations={
     "boltLabel": "FISSAGGI E NORME",
     "boltDesc": "Consulta viti e dadi per norma. Esplora dimensioni, passi, resistenza e prefori con disegni quotati.",
     "gearLabel": "PROFILI DI INGRANAGGI",
-    "gearDesc": "Genera profili di ingranaggi dritti ed elicoidali in DXF, con disegni quotati e istruzioni di estrusione per CAD 3D."
+    "gearDesc": "Genera ingranaggi, cremagliere e corone interne in DXF, con disegni quotati e istruzioni di estrusione per CAD 3D."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -465,6 +465,6 @@ window.FactoryTranslations={
     "boltLabel": "締結部品と規格",
     "boltDesc": "規格別にボルトとナットを検索。寸法、ピッチ、強度、タップ下穴を寸法図とともに確認できます。",
     "gearLabel": "歯車の歯形",
-    "gearDesc": "平歯車とはすば歯車の歯形を DXF で生成。寸法付き図面と 3D CAD の押し出し手順を提供します。"
+    "gearDesc": "歯車、ラック、内歯車リングを DXF で生成。寸法付き図面と 3D CAD の作成手順を提供します。"
   }
 };
