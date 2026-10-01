@@ -12,3 +12,5 @@
 .tool-grid:has(.quality[open])>.layman{align-self:start}
 
 .tool-card.bolt{--accent:#39777c;--tint:#e9f3f1;align-self:start}
+
+.tool-card.gear{--accent:#397f68;--tint:#e8f4ef;align-self:start}

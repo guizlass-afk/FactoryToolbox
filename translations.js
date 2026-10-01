@@ -5,7 +5,7 @@ window.FactoryTranslations={
     "accent": "e economize material.",
     "intro": "Uma coleção de ferramentas práticas para visualizar modelos, planejar cortes e aproveitar melhor o material.",
     "choose": "Escolha sua ferramenta",
-    "count": "7 ferramentas. Um só lugar.",
+    "count": "8 ferramentas. Um só lugar.",
     "cad": "VISUALIZAÇÃO & CONVERSÃO",
     "profiles": "CORTE DE PERFIS",
     "sheets": "SECCIONAMENTO DE CHAPAS",
@@ -34,7 +34,9 @@ window.FactoryTranslations={
     "quality_cep": "CEP · I-MR",
     "quality_why": "5 Porquês",
     "boltLabel": "FIXADORES & NORMAS",
-    "boltDesc": "Consulte parafusos e porcas por norma. Explore dimensões, passos, resistência e pré-furos, com desenhos cotados."
+    "boltDesc": "Consulte parafusos e porcas por norma. Explore dimensões, passos, resistência e pré-furos, com desenhos cotados.",
+    "gearLabel": "PERFIS DE ENGRENAGENS",
+    "gearDesc": "Gere perfis de engrenagens retas e helicoidais em DXF, com desenho cotado e instruções de extrusão para CAD 3D."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -42,7 +44,7 @@ window.FactoryTranslations={
     "accent": "and save material.",
     "intro": "Practical tools to view models, plan cuts and make better use of your material.",
     "choose": "Choose your tool",
-    "count": "7 tools. One place.",
+    "count": "8 tools. One place.",
     "cad": "VIEW & CONVERT",
     "profiles": "PROFILE CUTTING",
     "sheets": "PANEL CUTTING",
@@ -71,7 +73,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 Whys",
     "boltLabel": "FASTENERS & STANDARDS",
-    "boltDesc": "Look up bolts and nuts by standard. Explore dimensions, pitches, strength and tap drills with dimensioned drawings."
+    "boltDesc": "Look up bolts and nuts by standard. Explore dimensions, pitches, strength and tap drills with dimensioned drawings.",
+    "gearLabel": "GEAR PROFILES",
+    "gearDesc": "Generate spur and helical gear profiles in DXF, with dimensioned drawings and extrusion instructions for 3D CAD."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -79,7 +83,7 @@ window.FactoryTranslations={
     "accent": "a la fabricación.",
     "intro": "Herramientas prácticas para visualizar modelos, planificar cortes y aprovechar mejor el material.",
     "choose": "Elige tu herramienta",
-    "count": "7 herramientas. Un solo lugar.",
+    "count": "8 herramientas. Un solo lugar.",
     "cad": "VISUALIZACIÓN Y CONVERSIÓN",
     "profiles": "CORTE DE PERFILES",
     "sheets": "SECCIONADO DE TABLEROS",
@@ -108,7 +112,9 @@ window.FactoryTranslations={
     "quality_cep": "CEP · I-MR",
     "quality_why": "5 Porqués",
     "boltLabel": "FIJACIONES Y NORMAS",
-    "boltDesc": "Consulte tornillos y tuercas por norma. Explore dimensiones, pasos, resistencia y taladros previos con dibujos acotados."
+    "boltDesc": "Consulte tornillos y tuercas por norma. Explore dimensiones, pasos, resistencia y taladros previos con dibujos acotados.",
+    "gearLabel": "PERFILES DE ENGRANAJES",
+    "gearDesc": "Genere perfiles de engranajes rectos y helicoidales en DXF, con dibujos acotados e instrucciones de extrusión para CAD 3D."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -116,7 +122,7 @@ window.FactoryTranslations={
     "accent": "到制造。",
     "intro": "查看模型、规划切割、提高材料利用率的实用工具。",
     "choose": "选择工具",
-    "count": "7 种工具，一个入口。",
+    "count": "8 种工具，一个入口。",
     "cad": "查看与转换",
     "profiles": "型材切割",
     "sheets": "板材分切",
@@ -145,7 +151,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 个为什么",
     "boltLabel": "紧固件与标准",
-    "boltDesc": "按标准查询螺栓与螺母，查看尺寸、螺距、强度及攻丝底孔，并生成尺寸图。"
+    "boltDesc": "按标准查询螺栓与螺母，查看尺寸、螺距、强度及攻丝底孔，并生成尺寸图。",
+    "gearLabel": "齿轮齿形",
+    "gearDesc": "生成直齿轮和斜齿轮 DXF 齿形，附带尺寸图和 3D CAD 拉伸说明。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -153,7 +161,7 @@ window.FactoryTranslations={
     "accent": "निर्माण तक।",
     "intro": "मॉडल देखने, कटिंग की योजना बनाने और सामग्री का बेहतर उपयोग करने के व्यावहारिक उपकरण।",
     "choose": "अपना उपकरण चुनें",
-    "count": "7 उपकरण। एक ही जगह।",
+    "count": "8 उपकरण। एक ही जगह।",
     "cad": "देखें और रूपांतरण करें",
     "profiles": "प्रोफ़ाइल कटिंग",
     "sheets": "शीट कटिंग",
@@ -182,7 +190,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 क्यों",
     "boltLabel": "फास्टनर और मानक",
-    "boltDesc": "मानक के अनुसार बोल्ट और नट देखें। आयाम, पिच, मजबूती और टैप ड्रिल के साथ माप वाले चित्र पाएँ।"
+    "boltDesc": "मानक के अनुसार बोल्ट और नट देखें। आयाम, पिच, मजबूती और टैप ड्रिल के साथ माप वाले चित्र पाएँ।",
+    "gearLabel": "गियर प्रोफ़ाइल",
+    "gearDesc": "सीधे और हेलिकल गियर की DXF प्रोफ़ाइल बनाएँ, आयाम वाले चित्र और 3D CAD एक्सट्रूज़न निर्देशों के साथ।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -190,7 +200,7 @@ window.FactoryTranslations={
     "accent": "إلى التصنيع.",
     "intro": "أدوات عملية لعرض النماذج وتخطيط القطع والاستفادة الأفضل من المواد.",
     "choose": "اختر أداتك",
-    "count": "7 أدوات. مكان واحد.",
+    "count": "8 أدوات. مكان واحد.",
     "cad": "عرض وتحويل",
     "profiles": "قطع المقاطع",
     "sheets": "تقطيع الألواح",
@@ -219,7 +229,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "لماذا خمس مرات",
     "boltLabel": "عناصر التثبيت والمعايير",
-    "boltDesc": "ابحث عن المسامير والصواميل حسب المعيار. استكشف الأبعاد وخطوة السن والمقاومة وثقوب القلوظة مع رسوم بالأبعاد."
+    "boltDesc": "ابحث عن المسامير والصواميل حسب المعيار. استكشف الأبعاد وخطوة السن والمقاومة وثقوب القلوظة مع رسوم بالأبعاد.",
+    "gearLabel": "مقاطع التروس",
+    "gearDesc": "أنشئ مقاطع تروس مستقيمة وحلزونية بصيغة DXF، مع رسومات بالأبعاد وتعليمات البثق في CAD ثلاثي الأبعاد."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -227,7 +239,7 @@ window.FactoryTranslations={
     "accent": "à la fabrication.",
     "intro": "Des outils pratiques pour visualiser les modèles, planifier les découpes et mieux utiliser les matériaux.",
     "choose": "Choisissez votre outil",
-    "count": "7 outils. Un seul endroit.",
+    "count": "8 outils. Un seul endroit.",
     "cad": "VISUALISATION ET CONVERSION",
     "profiles": "DÉCOUPE DE PROFILÉS",
     "sheets": "DÉBIT DE PANNEAUX",
@@ -256,7 +268,9 @@ window.FactoryTranslations={
     "quality_cep": "MSP · I-MR",
     "quality_why": "5 Pourquoi",
     "boltLabel": "FIXATIONS ET NORMES",
-    "boltDesc": "Consultez vis et écrous par norme. Explorez dimensions, pas, résistance et avant-trous avec des dessins cotés."
+    "boltDesc": "Consultez vis et écrous par norme. Explorez dimensions, pas, résistance et avant-trous avec des dessins cotés.",
+    "gearLabel": "PROFILS D’ENGRENAGES",
+    "gearDesc": "Générez des profils de dentures droites et hélicoïdales en DXF, avec dessins cotés et instructions d’extrusion pour la CAO 3D."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -264,7 +278,7 @@ window.FactoryTranslations={
     "accent": "উৎপাদন পর্যন্ত।",
     "intro": "মডেল দেখা, কাটার পরিকল্পনা ও উপকরণের সর্বোত্তম ব্যবহারের সরঞ্জাম।",
     "choose": "আপনার সরঞ্জাম বেছে নিন",
-    "count": "৭টি সরঞ্জাম। এক জায়গায়।",
+    "count": "৮টি সরঞ্জাম। এক জায়গায়।",
     "cad": "দেখা ও রূপান্তর",
     "profiles": "প্রোফাইল কাটিং",
     "sheets": "শিট কাটিং",
@@ -293,7 +307,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "৫ কেন",
     "boltLabel": "ফাস্টেনার ও মান",
-    "boltDesc": "মান অনুযায়ী বোল্ট ও নাট দেখুন। মাত্রা, পিচ, শক্তি ও ট্যাপ ড্রিলের সঙ্গে মাপযুক্ত চিত্র পান।"
+    "boltDesc": "মান অনুযায়ী বোল্ট ও নাট দেখুন। মাত্রা, পিচ, শক্তি ও ট্যাপ ড্রিলের সঙ্গে মাপযুক্ত চিত্র পান।",
+    "gearLabel": "গিয়ার প্রোফাইল",
+    "gearDesc": "সোজা ও হেলিক্যাল গিয়ারের DXF প্রোফাইল তৈরি করুন, মাত্রাসহ অঙ্কন ও 3D CAD এক্সট্রুশন নির্দেশনাসহ।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -301,7 +317,7 @@ window.FactoryTranslations={
     "accent": "к производству.",
     "intro": "Практичные инструменты для просмотра моделей, планирования раскроя и экономии материала.",
     "choose": "Выберите инструмент",
-    "count": "7 инструментов. Одно место.",
+    "count": "8 инструментов. Одно место.",
     "cad": "ПРОСМОТР И КОНВЕРТАЦИЯ",
     "profiles": "РАСКРОЙ ПРОФИЛЕЙ",
     "sheets": "РАСКРОЙ ЛИСТОВ",
@@ -330,7 +346,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 Почему",
     "boltLabel": "КРЕПЁЖ И СТАНДАРТЫ",
-    "boltDesc": "Подбирайте болты и гайки по стандарту. Размеры, шаги, прочность и отверстия под резьбу с размерными чертежами."
+    "boltDesc": "Подбирайте болты и гайки по стандарту. Размеры, шаги, прочность и отверстия под резьбу с размерными чертежами.",
+    "gearLabel": "ПРОФИЛИ ЗУБЧАТЫХ КОЛЁС",
+    "gearDesc": "Создавайте профили прямозубых и косозубых колёс в DXF с размерами и инструкциями для построения в 3D CAD."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -338,7 +356,7 @@ window.FactoryTranslations={
     "accent": "zur Fertigung.",
     "intro": "Praktische Werkzeuge zum Anzeigen von Modellen, Planen von Zuschnitten und besseren Nutzen von Material.",
     "choose": "Werkzeug auswählen",
-    "count": "7 Werkzeuge. Ein Ort.",
+    "count": "8 Werkzeuge. Ein Ort.",
     "cad": "ANZEIGEN & KONVERTIEREN",
     "profiles": "PROFILZUSCHNITT",
     "sheets": "PLATTENZUSCHNITT",
@@ -367,7 +385,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 Warum",
     "boltLabel": "VERBINDUNGSELEMENTE UND NORMEN",
-    "boltDesc": "Schrauben und Muttern nach Norm nachschlagen. Maße, Steigungen, Festigkeit und Kernlöcher mit bemaßten Zeichnungen erkunden."
+    "boltDesc": "Schrauben und Muttern nach Norm nachschlagen. Maße, Steigungen, Festigkeit und Kernlöcher mit bemaßten Zeichnungen erkunden.",
+    "gearLabel": "ZAHNRADPROFILE",
+    "gearDesc": "Erstellen Sie gerade und schräge Zahnradprofile als DXF, mit bemaßten Zeichnungen und Extrusionsanleitung für 3D-CAD."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -375,7 +395,7 @@ window.FactoryTranslations={
     "accent": "alla produzione.",
     "intro": "Strumenti pratici per visualizzare modelli, pianificare tagli e sfruttare meglio il materiale.",
     "choose": "Scegli il tuo strumento",
-    "count": "7 strumenti. Un solo posto.",
+    "count": "8 strumenti. Un solo posto.",
     "cad": "VISUALIZZAZIONE E CONVERSIONE",
     "profiles": "TAGLIO DI PROFILI",
     "sheets": "SEZIONATURA DI PANNELLI",
@@ -404,7 +424,9 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "5 Perché",
     "boltLabel": "FISSAGGI E NORME",
-    "boltDesc": "Consulta viti e dadi per norma. Esplora dimensioni, passi, resistenza e prefori con disegni quotati."
+    "boltDesc": "Consulta viti e dadi per norma. Esplora dimensioni, passi, resistenza e prefori con disegni quotati.",
+    "gearLabel": "PROFILI DI INGRANAGGI",
+    "gearDesc": "Genera profili di ingranaggi dritti ed elicoidali in DXF, con disegni quotati e istruzioni di estrusione per CAD 3D."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -412,7 +434,7 @@ window.FactoryTranslations={
     "accent": "製造まで。",
     "intro": "モデル表示、切断計画、材料の有効活用に役立つツール集。",
     "choose": "ツールを選択",
-    "count": "7つのツールを、ひとつの場所に。",
+    "count": "8つのツールを、ひとつの場所に。",
     "cad": "表示・変換",
     "profiles": "形材の切断",
     "sheets": "板材の切断",
@@ -441,6 +463,8 @@ window.FactoryTranslations={
     "quality_cep": "SPC · I-MR",
     "quality_why": "なぜなぜ分析",
     "boltLabel": "締結部品と規格",
-    "boltDesc": "規格別にボルトとナットを検索。寸法、ピッチ、強度、タップ下穴を寸法図とともに確認できます。"
+    "boltDesc": "規格別にボルトとナットを検索。寸法、ピッチ、強度、タップ下穴を寸法図とともに確認できます。",
+    "gearLabel": "歯車の歯形",
+    "gearDesc": "平歯車とはすば歯車の歯形を DXF で生成。寸法付き図面と 3D CAD の押し出し手順を提供します。"
   }
 };
