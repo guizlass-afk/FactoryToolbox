@@ -10,3 +10,5 @@
 .tool-card.quality{--accent:#536dad;--tint:#edf0fa;display:block;padding:0;align-self:start}.quality>summary{display:flex;position:relative;list-style:none;cursor:pointer;padding:24px}.quality>summary::-webkit-details-marker{display:none}.quality>summary:focus-visible{outline:3px solid var(--accent);outline-offset:-4px;border-radius:14px}.quality-chevron{display:inline-block;transition:transform .15s}.quality[open] .quality-chevron{transform:rotate(180deg)}.quality-links{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 24px 24px}.quality-links a{display:flex;align-items:center;min-height:43px;border:1px solid #d7e3e7;border-radius:7px;padding:10px 12px;font-size:12px;color:inherit;text-decoration:none;line-height:1.4}.quality-links a:hover,.quality-links a:focus-visible{background:var(--tint);border-color:var(--accent);outline:2px solid var(--accent);outline-offset:1px}
 
 .tool-grid:has(.quality[open])>.layman{align-self:start}
+
+.tool-card.bolt{--accent:#39777c;--tint:#e9f3f1;align-self:start}

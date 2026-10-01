@@ -1,11 +1,11 @@
 window.FactoryTranslations={
   "pt-BR": {
     "eyebrow": "SUA BANCADA DIGITAL",
-    "headline": "Do projeto",
-    "accent": "à fabricação.",
+    "headline": "Otimize seu tempo",
+    "accent": "e economize material.",
     "intro": "Uma coleção de ferramentas práticas para visualizar modelos, planejar cortes e aproveitar melhor o material.",
     "choose": "Escolha sua ferramenta",
-    "count": "6 ferramentas. Um só lugar.",
+    "count": "7 ferramentas. Um só lugar.",
     "cad": "VISUALIZAÇÃO & CONVERSÃO",
     "profiles": "CORTE DE PERFIS",
     "sheets": "SECCIONAMENTO DE CHAPAS",
@@ -32,15 +32,17 @@ window.FactoryTranslations={
     "quality_control": "Plano de Controle",
     "quality_flow": "Fluxo de Processo",
     "quality_cep": "CEP · I-MR",
-    "quality_why": "5 Porquês"
+    "quality_why": "5 Porquês",
+    "boltLabel": "FIXADORES & NORMAS",
+    "boltDesc": "Consulte parafusos e porcas por norma. Explore dimensões, passos, resistência e pré-furos, com desenhos cotados."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
-    "headline": "From design",
-    "accent": "to production.",
+    "headline": "Optimize your time",
+    "accent": "and save material.",
     "intro": "Practical tools to view models, plan cuts and make better use of your material.",
     "choose": "Choose your tool",
-    "count": "6 tools. One place.",
+    "count": "7 tools. One place.",
     "cad": "VIEW & CONVERT",
     "profiles": "PROFILE CUTTING",
     "sheets": "PANEL CUTTING",
@@ -67,7 +69,9 @@ window.FactoryTranslations={
     "quality_control": "Control Plan",
     "quality_flow": "Process Flow",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 Whys"
+    "quality_why": "5 Whys",
+    "boltLabel": "FASTENERS & STANDARDS",
+    "boltDesc": "Look up bolts and nuts by standard. Explore dimensions, pitches, strength and tap drills with dimensioned drawings."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -75,7 +79,7 @@ window.FactoryTranslations={
     "accent": "a la fabricación.",
     "intro": "Herramientas prácticas para visualizar modelos, planificar cortes y aprovechar mejor el material.",
     "choose": "Elige tu herramienta",
-    "count": "6 herramientas. Un solo lugar.",
+    "count": "7 herramientas. Un solo lugar.",
     "cad": "VISUALIZACIÓN Y CONVERSIÓN",
     "profiles": "CORTE DE PERFILES",
     "sheets": "SECCIONADO DE TABLEROS",
@@ -102,7 +106,9 @@ window.FactoryTranslations={
     "quality_control": "Plan de Control",
     "quality_flow": "Flujo de Proceso",
     "quality_cep": "CEP · I-MR",
-    "quality_why": "5 Porqués"
+    "quality_why": "5 Porqués",
+    "boltLabel": "FIJACIONES Y NORMAS",
+    "boltDesc": "Consulte tornillos y tuercas por norma. Explore dimensiones, pasos, resistencia y taladros previos con dibujos acotados."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -110,7 +116,7 @@ window.FactoryTranslations={
     "accent": "到制造。",
     "intro": "查看模型、规划切割、提高材料利用率的实用工具。",
     "choose": "选择工具",
-    "count": "6 种工具，一个入口。",
+    "count": "7 种工具，一个入口。",
     "cad": "查看与转换",
     "profiles": "型材切割",
     "sheets": "板材分切",
@@ -137,7 +143,9 @@ window.FactoryTranslations={
     "quality_control": "控制计划",
     "quality_flow": "过程流程",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 个为什么"
+    "quality_why": "5 个为什么",
+    "boltLabel": "紧固件与标准",
+    "boltDesc": "按标准查询螺栓与螺母，查看尺寸、螺距、强度及攻丝底孔，并生成尺寸图。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -145,7 +153,7 @@ window.FactoryTranslations={
     "accent": "निर्माण तक।",
     "intro": "मॉडल देखने, कटिंग की योजना बनाने और सामग्री का बेहतर उपयोग करने के व्यावहारिक उपकरण।",
     "choose": "अपना उपकरण चुनें",
-    "count": "6 उपकरण। एक ही जगह।",
+    "count": "7 उपकरण। एक ही जगह।",
     "cad": "देखें और रूपांतरण करें",
     "profiles": "प्रोफ़ाइल कटिंग",
     "sheets": "शीट कटिंग",
@@ -172,7 +180,9 @@ window.FactoryTranslations={
     "quality_control": "नियंत्रण योजना",
     "quality_flow": "प्रक्रिया प्रवाह",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 क्यों"
+    "quality_why": "5 क्यों",
+    "boltLabel": "फास्टनर और मानक",
+    "boltDesc": "मानक के अनुसार बोल्ट और नट देखें। आयाम, पिच, मजबूती और टैप ड्रिल के साथ माप वाले चित्र पाएँ।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -180,7 +190,7 @@ window.FactoryTranslations={
     "accent": "إلى التصنيع.",
     "intro": "أدوات عملية لعرض النماذج وتخطيط القطع والاستفادة الأفضل من المواد.",
     "choose": "اختر أداتك",
-    "count": "6 أدوات. مكان واحد.",
+    "count": "7 أدوات. مكان واحد.",
     "cad": "عرض وتحويل",
     "profiles": "قطع المقاطع",
     "sheets": "تقطيع الألواح",
@@ -207,7 +217,9 @@ window.FactoryTranslations={
     "quality_control": "خطة التحكم",
     "quality_flow": "تدفق العملية",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "لماذا خمس مرات"
+    "quality_why": "لماذا خمس مرات",
+    "boltLabel": "عناصر التثبيت والمعايير",
+    "boltDesc": "ابحث عن المسامير والصواميل حسب المعيار. استكشف الأبعاد وخطوة السن والمقاومة وثقوب القلوظة مع رسوم بالأبعاد."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -215,7 +227,7 @@ window.FactoryTranslations={
     "accent": "à la fabrication.",
     "intro": "Des outils pratiques pour visualiser les modèles, planifier les découpes et mieux utiliser les matériaux.",
     "choose": "Choisissez votre outil",
-    "count": "6 outils. Un seul endroit.",
+    "count": "7 outils. Un seul endroit.",
     "cad": "VISUALISATION ET CONVERSION",
     "profiles": "DÉCOUPE DE PROFILÉS",
     "sheets": "DÉBIT DE PANNEAUX",
@@ -242,7 +254,9 @@ window.FactoryTranslations={
     "quality_control": "Plan de surveillance",
     "quality_flow": "Flux du processus",
     "quality_cep": "MSP · I-MR",
-    "quality_why": "5 Pourquoi"
+    "quality_why": "5 Pourquoi",
+    "boltLabel": "FIXATIONS ET NORMES",
+    "boltDesc": "Consultez vis et écrous par norme. Explorez dimensions, pas, résistance et avant-trous avec des dessins cotés."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -250,7 +264,7 @@ window.FactoryTranslations={
     "accent": "উৎপাদন পর্যন্ত।",
     "intro": "মডেল দেখা, কাটার পরিকল্পনা ও উপকরণের সর্বোত্তম ব্যবহারের সরঞ্জাম।",
     "choose": "আপনার সরঞ্জাম বেছে নিন",
-    "count": "৬টি সরঞ্জাম। এক জায়গায়।",
+    "count": "৭টি সরঞ্জাম। এক জায়গায়।",
     "cad": "দেখা ও রূপান্তর",
     "profiles": "প্রোফাইল কাটিং",
     "sheets": "শিট কাটিং",
@@ -277,7 +291,9 @@ window.FactoryTranslations={
     "quality_control": "নিয়ন্ত্রণ পরিকল্পনা",
     "quality_flow": "প্রক্রিয়া প্রবাহ",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "৫ কেন"
+    "quality_why": "৫ কেন",
+    "boltLabel": "ফাস্টেনার ও মান",
+    "boltDesc": "মান অনুযায়ী বোল্ট ও নাট দেখুন। মাত্রা, পিচ, শক্তি ও ট্যাপ ড্রিলের সঙ্গে মাপযুক্ত চিত্র পান।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -285,7 +301,7 @@ window.FactoryTranslations={
     "accent": "к производству.",
     "intro": "Практичные инструменты для просмотра моделей, планирования раскроя и экономии материала.",
     "choose": "Выберите инструмент",
-    "count": "6 инструментов. Одно место.",
+    "count": "7 инструментов. Одно место.",
     "cad": "ПРОСМОТР И КОНВЕРТАЦИЯ",
     "profiles": "РАСКРОЙ ПРОФИЛЕЙ",
     "sheets": "РАСКРОЙ ЛИСТОВ",
@@ -312,7 +328,9 @@ window.FactoryTranslations={
     "quality_control": "План управления",
     "quality_flow": "Схема процесса",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 Почему"
+    "quality_why": "5 Почему",
+    "boltLabel": "КРЕПЁЖ И СТАНДАРТЫ",
+    "boltDesc": "Подбирайте болты и гайки по стандарту. Размеры, шаги, прочность и отверстия под резьбу с размерными чертежами."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -320,7 +338,7 @@ window.FactoryTranslations={
     "accent": "zur Fertigung.",
     "intro": "Praktische Werkzeuge zum Anzeigen von Modellen, Planen von Zuschnitten und besseren Nutzen von Material.",
     "choose": "Werkzeug auswählen",
-    "count": "6 Werkzeuge. Ein Ort.",
+    "count": "7 Werkzeuge. Ein Ort.",
     "cad": "ANZEIGEN & KONVERTIEREN",
     "profiles": "PROFILZUSCHNITT",
     "sheets": "PLATTENZUSCHNITT",
@@ -347,7 +365,9 @@ window.FactoryTranslations={
     "quality_control": "Produktionslenkungsplan",
     "quality_flow": "Prozessablauf",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 Warum"
+    "quality_why": "5 Warum",
+    "boltLabel": "VERBINDUNGSELEMENTE UND NORMEN",
+    "boltDesc": "Schrauben und Muttern nach Norm nachschlagen. Maße, Steigungen, Festigkeit und Kernlöcher mit bemaßten Zeichnungen erkunden."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -355,7 +375,7 @@ window.FactoryTranslations={
     "accent": "alla produzione.",
     "intro": "Strumenti pratici per visualizzare modelli, pianificare tagli e sfruttare meglio il materiale.",
     "choose": "Scegli il tuo strumento",
-    "count": "6 strumenti. Un solo posto.",
+    "count": "7 strumenti. Un solo posto.",
     "cad": "VISUALIZZAZIONE E CONVERSIONE",
     "profiles": "TAGLIO DI PROFILI",
     "sheets": "SEZIONATURA DI PANNELLI",
@@ -382,7 +402,9 @@ window.FactoryTranslations={
     "quality_control": "Piano di Controllo",
     "quality_flow": "Flusso di Processo",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "5 Perché"
+    "quality_why": "5 Perché",
+    "boltLabel": "FISSAGGI E NORME",
+    "boltDesc": "Consulta viti e dadi per norma. Esplora dimensioni, passi, resistenza e prefori con disegni quotati."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -390,7 +412,7 @@ window.FactoryTranslations={
     "accent": "製造まで。",
     "intro": "モデル表示、切断計画、材料の有効活用に役立つツール集。",
     "choose": "ツールを選択",
-    "count": "6つのツールを、ひとつの場所に。",
+    "count": "7つのツールを、ひとつの場所に。",
     "cad": "表示・変換",
     "profiles": "形材の切断",
     "sheets": "板材の切断",
@@ -417,6 +439,8 @@ window.FactoryTranslations={
     "quality_control": "コントロールプラン",
     "quality_flow": "工程フロー",
     "quality_cep": "SPC · I-MR",
-    "quality_why": "なぜなぜ分析"
+    "quality_why": "なぜなぜ分析",
+    "boltLabel": "締結部品と規格",
+    "boltDesc": "規格別にボルトとナットを検索。寸法、ピッチ、強度、タップ下穴を寸法図とともに確認できます。"
   }
 };

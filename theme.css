@@ -75,3 +75,5 @@ html[data-theme=dark] .card-category,html[data-theme=dark] .card-action{color:va
 @media screen{html[data-theme="dark"] .tool-card.quality{--accent:#adc0ff;--tint:#293955}}
 
 @media screen{html[data-theme="dark"] .quality-links a{border-color:#324957}}
+
+html[data-theme="dark"] .tool-card.bolt{--accent:#81c9be;--tint:#203f46}
