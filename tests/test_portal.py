@@ -15,7 +15,7 @@ try:
   browser=p.chromium.launch(channel='chrome',headless=True);page=browser.new_page(viewport={'width':1366,'height':950});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
   page.goto(f'http://127.0.0.1:{server.server_port}/');page.wait_for_function('document.querySelectorAll("[data-language]").length===12')
   expected=['ViewAndConvert','PipeSaver','BestSection','EZNesting','LaymanCad2D']
-  assert page.locator('.tool-card').count()==9
+  assert page.locator('.tool-card').count()==10
   for i,repo in enumerate(expected):assert page.locator('.tool-card').nth(i).get_attribute('href')==f'https://guizlass-afk.github.io/{repo}/'
   assert not page.locator('.quality-links a').first.is_visible()
   page.locator('.quality summary').click();assert page.locator('.quality-links a').count()==10
@@ -53,8 +53,11 @@ try:
   assert page.locator('.tool-card.unit').get_attribute('href')=='https://guizlass-afk.github.io/UnitConverter/'
   page.locator('.tool-card.unit').evaluate("el=>el.addEventListener('click',e=>e.preventDefault())")
   page.locator('.tool-card.unit').click();assert page.evaluate("localStorage.getItem('unitconverter-language')")=='en-US'
+  assert page.locator('.tool-card.material').get_attribute('href')=='https://guizlass-afk.github.io/MaterialCodex/'
+  page.locator('.tool-card.material').evaluate("el=>el.addEventListener('click',e=>e.preventDefault())")
+  page.locator('.tool-card.material').click();assert page.evaluate("localStorage.getItem('materialcodex-language')")=='en-US'
   assert not errors,errors
   # Static links and Portuguese descriptions work even when JavaScript is disabled.
-  basic=browser.new_context(java_script_enabled=False).new_page();basic.goto(f'http://127.0.0.1:{server.server_port}/');assert basic.locator('.tool-card').count()==9
-  browser.close();print('PASS: eight direct links plus ten quality tools, 12 complete languages, four viewport sizes, RTL, keyboard, persistence, language handoff and no-JS navigation.')
+  basic=browser.new_context(java_script_enabled=False).new_page();basic.goto(f'http://127.0.0.1:{server.server_port}/');assert basic.locator('.tool-card').count()==10
+  browser.close();print('PASS: nine direct links plus ten quality tools, 12 complete languages, four viewport sizes, RTL, keyboard, persistence, language handoff and no-JS navigation.')
 finally:server.shutdown()

@@ -38,7 +38,9 @@ window.FactoryTranslations={
     "gearLabel": "PERFIS DE ENGRENAGENS",
     "gearDesc": "Gere engrenagens, cremalheiras e anéis internos em DXF, com desenhos cotados e instruções de extrusão para CAD 3D.",
     "unitLabel": "CONVERSÃO DE MEDIDAS",
-    "unitDesc": "Converta medidas entre SI, imperial e unidades técnicas. Temperatura, força, pressão e outras 49 grandezas, com tabela de equivalências."
+    "unitDesc": "Converta medidas entre SI, imperial e unidades técnicas. Temperatura, força, pressão e outras 49 grandezas, com tabela de equivalências.",
+    "materialLabel": "PROPRIEDADES DE MATERIAIS",
+    "materialDesc": "Pesquise materiais e ligas. Compare composição e propriedades físicas, mecânicas, térmicas e elétricas, com fontes e condições de referência."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -79,7 +81,9 @@ window.FactoryTranslations={
     "gearLabel": "GEAR PROFILES",
     "gearDesc": "Generate gears, linear racks and internal rings in DXF, with dimensioned drawings and extrusion instructions for 3D CAD.",
     "unitLabel": "UNIT CONVERSION",
-    "unitDesc": "Convert SI, imperial and engineering units. Temperature, force, pressure and 49 more quantities, with a table of equivalents."
+    "unitDesc": "Convert SI, imperial and engineering units. Temperature, force, pressure and 49 more quantities, with a table of equivalents.",
+    "materialLabel": "MATERIAL PROPERTIES",
+    "materialDesc": "Search materials and alloys. Compare composition and physical, mechanical, thermal and electrical properties, with sources and reference conditions."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -120,7 +124,9 @@ window.FactoryTranslations={
     "gearLabel": "PERFILES DE ENGRANAJES",
     "gearDesc": "Genere engranajes, cremalleras y anillos interiores en DXF, con dibujos acotados e instrucciones de extrusión para CAD 3D.",
     "unitLabel": "CONVERSIÓN DE MEDIDAS",
-    "unitDesc": "Convierte unidades SI, imperiales y técnicas. Temperatura, fuerza, presión y otras 49 magnitudes, con tabla de equivalencias."
+    "unitDesc": "Convierte unidades SI, imperiales y técnicas. Temperatura, fuerza, presión y otras 49 magnitudes, con tabla de equivalencias.",
+    "materialLabel": "PROPIEDADES DE MATERIALES",
+    "materialDesc": "Busque materiales y aleaciones. Compare composición y propiedades físicas, mecánicas, térmicas y eléctricas, con fuentes y condiciones de referencia."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -161,7 +167,9 @@ window.FactoryTranslations={
     "gearLabel": "齿轮齿形",
     "gearDesc": "生成齿轮、齿条和内齿圈 DXF，附带尺寸图和 3D CAD 拉伸说明。",
     "unitLabel": "单位换算",
-    "unitDesc": "转换 SI、英制和工程单位。涵盖温度、力、压力及其他 49 种物理量，并提供等值换算表。"
+    "unitDesc": "转换 SI、英制和工程单位。涵盖温度、力、压力及其他 49 种物理量，并提供等值换算表。",
+    "materialLabel": "材料性能",
+    "materialDesc": "搜索材料和合金。比较成分及物理、机械、热学和电学性能，附来源和参考条件。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -202,7 +210,9 @@ window.FactoryTranslations={
     "gearLabel": "गियर प्रोफ़ाइल",
     "gearDesc": "गियर, दाँतेदार रैक और आंतरिक रिंग की DXF बनाएँ, आयाम वाले चित्र और 3D CAD निर्देशों के साथ।",
     "unitLabel": "इकाई रूपांतरण",
-    "unitDesc": "SI, इम्पीरियल और तकनीकी इकाइयाँ बदलें। तापमान, बल, दाब और 49 अन्य राशियाँ, समतुल्य मानों की तालिका सहित।"
+    "unitDesc": "SI, इम्पीरियल और तकनीकी इकाइयाँ बदलें। तापमान, बल, दाब और 49 अन्य राशियाँ, समतुल्य मानों की तालिका सहित।",
+    "materialLabel": "पदार्थों के गुण",
+    "materialDesc": "पदार्थ और मिश्रधातु खोजें। संरचना तथा भौतिक, यांत्रिक, तापीय और विद्युत गुण स्रोत और संदर्भ स्थितियों सहित तुलना करें।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -243,7 +253,9 @@ window.FactoryTranslations={
     "gearLabel": "مقاطع التروس",
     "gearDesc": "أنشئ تروسًا وجرائد مسننة وحلقات داخلية بصيغة DXF، مع رسومات بالأبعاد وتعليمات CAD ثلاثي الأبعاد.",
     "unitLabel": "تحويل الوحدات",
-    "unitDesc": "حوّل وحدات SI والوحدات البريطانية والهندسية. الحرارة والقوة والضغط و49 كمية أخرى مع جدول القيم المكافئة."
+    "unitDesc": "حوّل وحدات SI والوحدات البريطانية والهندسية. الحرارة والقوة والضغط و49 كمية أخرى مع جدول القيم المكافئة.",
+    "materialLabel": "خصائص المواد",
+    "materialDesc": "ابحث عن المواد والسبائك. قارن التركيب والخصائص الفيزيائية والميكانيكية والحرارية والكهربائية مع المصادر والشروط المرجعية."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -284,7 +296,9 @@ window.FactoryTranslations={
     "gearLabel": "PROFILS D’ENGRENAGES",
     "gearDesc": "Générez des engrenages, crémaillères et couronnes intérieures en DXF, avec dessins cotés et instructions pour la CAO 3D.",
     "unitLabel": "CONVERSION DES UNITÉS",
-    "unitDesc": "Convertissez les unités SI, impériales et techniques. Température, force, pression et 49 autres grandeurs, avec tableau des équivalences."
+    "unitDesc": "Convertissez les unités SI, impériales et techniques. Température, force, pression et 49 autres grandeurs, avec tableau des équivalences.",
+    "materialLabel": "PROPRIÉTÉS DES MATÉRIAUX",
+    "materialDesc": "Recherchez des matériaux et alliages. Comparez composition et propriétés physiques, mécaniques, thermiques et électriques, avec sources et conditions."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -325,7 +339,9 @@ window.FactoryTranslations={
     "gearLabel": "গিয়ার প্রোফাইল",
     "gearDesc": "গিয়ার, দাঁতযুক্ত র‍্যাক ও অভ্যন্তরীণ রিংয়ের DXF তৈরি করুন, মাত্রাসহ অঙ্কন ও 3D CAD নির্দেশনাসহ।",
     "unitLabel": "একক রূপান্তর",
-    "unitDesc": "SI, ইম্পেরিয়াল ও প্রযুক্তিগত একক রূপান্তর। তাপমাত্রা, বল, চাপ এবং আরও ৪৯টি রাশি, সমতুল্য মানের সারণিসহ।"
+    "unitDesc": "SI, ইম্পেরিয়াল ও প্রযুক্তিগত একক রূপান্তর। তাপমাত্রা, বল, চাপ এবং আরও ৪৯টি রাশি, সমতুল্য মানের সারণিসহ।",
+    "materialLabel": "পদার্থের ধর্ম",
+    "materialDesc": "পদার্থ ও সংকর খুঁজুন। উৎস ও নির্দেশক শর্তসহ গঠন এবং ভৌত, যান্ত্রিক, তাপীয় ও বৈদ্যুতিক ধর্ম তুলনা করুন।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -366,7 +382,9 @@ window.FactoryTranslations={
     "gearLabel": "ПРОФИЛИ ЗУБЧАТЫХ КОЛЁС",
     "gearDesc": "Создавайте зубчатые колёса, рейки и внутренние венцы в DXF с размерами и инструкциями для 3D CAD.",
     "unitLabel": "ПЕРЕВОД ЕДИНИЦ",
-    "unitDesc": "Перевод единиц СИ, имперских и технических единиц. Температура, сила, давление и ещё 49 величин с таблицей эквивалентов."
+    "unitDesc": "Перевод единиц СИ, имперских и технических единиц. Температура, сила, давление и ещё 49 величин с таблицей эквивалентов.",
+    "materialLabel": "СВОЙСТВА МАТЕРИАЛОВ",
+    "materialDesc": "Ищите материалы и сплавы. Сравнивайте состав, физические, механические, тепловые и электрические свойства с источниками и условиями."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -407,7 +425,9 @@ window.FactoryTranslations={
     "gearLabel": "ZAHNRADPROFILE",
     "gearDesc": "Erstellen Sie Zahnräder, Zahnstangen und Innenzahnkränze als DXF, mit bemaßten Zeichnungen und Extrusionsanleitung für 3D-CAD.",
     "unitLabel": "EINHEITENUMRECHNUNG",
-    "unitDesc": "SI-, imperiale und technische Einheiten umrechnen. Temperatur, Kraft, Druck und 49 weitere Größen mit Umrechnungstabelle."
+    "unitDesc": "SI-, imperiale und technische Einheiten umrechnen. Temperatur, Kraft, Druck und 49 weitere Größen mit Umrechnungstabelle.",
+    "materialLabel": "WERKSTOFFEIGENSCHAFTEN",
+    "materialDesc": "Werkstoffe und Legierungen suchen. Zusammensetzung und physikalische, mechanische, thermische und elektrische Eigenschaften mit Quellen und Bedingungen vergleichen."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -448,7 +468,9 @@ window.FactoryTranslations={
     "gearLabel": "PROFILI DI INGRANAGGI",
     "gearDesc": "Genera ingranaggi, cremagliere e corone interne in DXF, con disegni quotati e istruzioni di estrusione per CAD 3D.",
     "unitLabel": "CONVERSIONE DI UNITÀ",
-    "unitDesc": "Converti unità SI, imperiali e tecniche. Temperatura, forza, pressione e altre 49 grandezze, con tabella delle equivalenze."
+    "unitDesc": "Converti unità SI, imperiali e tecniche. Temperatura, forza, pressione e altre 49 grandezze, con tabella delle equivalenze.",
+    "materialLabel": "PROPRIETÀ DEI MATERIALI",
+    "materialDesc": "Cerca materiali e leghe. Confronta composizione e proprietà fisiche, meccaniche, termiche ed elettriche, con fonti e condizioni di riferimento."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -489,6 +511,8 @@ window.FactoryTranslations={
     "gearLabel": "歯車の歯形",
     "gearDesc": "歯車、ラック、内歯車リングを DXF で生成。寸法付き図面と 3D CAD の作成手順を提供します。",
     "unitLabel": "単位変換",
-    "unitDesc": "SI・英帝国・工学単位を変換。温度・力・圧力とその他49の物理量を換算表で確認できます。"
+    "unitDesc": "SI・英帝国・工学単位を変換。温度・力・圧力とその他49の物理量を換算表で確認できます。",
+    "materialLabel": "材料特性",
+    "materialDesc": "材料や合金を検索。組成と物理・機械・熱・電気特性を、出典や基準条件とともに比較できます。"
   }
 };
