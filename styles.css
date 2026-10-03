@@ -18,3 +18,5 @@
 .tool-card.unit{--accent:#257b94;--tint:#e6f3f8;align-self:start}
 
 .tool-card.material{--accent:#337b71;--tint:#eef6f3;align-self:start}
+
+.tool-card.spring{--accent:#398c75}.spring .card-art{stroke:#398c75}
