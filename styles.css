@@ -20,3 +20,5 @@
 .tool-card.material{--accent:#337b71;--tint:#eef6f3;align-self:start}
 
 .tool-card.spring{--accent:#398c75}.spring .card-art{stroke:#398c75}
+
+.tool-card.fit{--accent:#337fa0;--tint:#e8f2f8}

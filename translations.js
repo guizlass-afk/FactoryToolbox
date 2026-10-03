@@ -42,7 +42,9 @@ window.FactoryTranslations={
     "materialLabel": "PROPRIEDADES DE MATERIAIS",
     "materialDesc": "Pesquise materiais e ligas. Compare composição e propriedades físicas, mecânicas, térmicas e elétricas, com fontes e condições de referência.",
     "springLabel": "ENGENHARIA DE MOLAS",
-    "springDesc": "Dimensione molas de compressão, tração e torção. Explore desenhos cotados, movimento e curvas de carga, com relatório exportável."
+    "springDesc": "Dimensione molas de compressão, tração e torção. Explore desenhos cotados, movimento e curvas de carga, com relatório exportável.",
+    "fitLabel": "AJUSTES & TOLERÂNCIAS",
+    "fitDesc": "Compare ajustes eixo/furo. Consulte desvios, limites dimensionais, folgas e interferências, com gráfico e simulação de montagem."
   },
   "en-US": {
     "eyebrow": "YOUR DIGITAL WORKBENCH",
@@ -87,7 +89,9 @@ window.FactoryTranslations={
     "materialLabel": "MATERIAL PROPERTIES",
     "materialDesc": "Search materials and alloys. Compare composition and physical, mechanical, thermal and electrical properties, with sources and reference conditions.",
     "springLabel": "SPRING ENGINEERING",
-    "springDesc": "Size compression, extension and torsion springs. Explore dimensioned drawings, motion and load curves, with an exportable report."
+    "springDesc": "Size compression, extension and torsion springs. Explore dimensioned drawings, motion and load curves, with an exportable report.",
+    "fitLabel": "FITS & TOLERANCES",
+    "fitDesc": "Compare shaft/hole fits. Look up deviations, dimensional limits, clearance and interference, with a chart and assembly simulation."
   },
   "es-ES": {
     "eyebrow": "TU BANCO DE TRABAJO DIGITAL",
@@ -132,7 +136,9 @@ window.FactoryTranslations={
     "materialLabel": "PROPIEDADES DE MATERIALES",
     "materialDesc": "Busque materiales y aleaciones. Compare composición y propiedades físicas, mecánicas, térmicas y eléctricas, con fuentes y condiciones de referencia.",
     "springLabel": "INGENIERÍA DE RESORTES",
-    "springDesc": "Dimensione resortes de compresión, tracción y torsión. Explore dibujos acotados, movimiento y curvas de carga, con informes exportables."
+    "springDesc": "Dimensione resortes de compresión, tracción y torsión. Explore dibujos acotados, movimiento y curvas de carga, con informes exportables.",
+    "fitLabel": "AJUSTES Y TOLERANCIAS",
+    "fitDesc": "Compare ajustes eje/agujero. Consulte desviaciones, límites, holguras e interferencias, con gráfico y simulación de montaje."
   },
   "zh-CN": {
     "eyebrow": "您的数字工作台",
@@ -177,7 +183,9 @@ window.FactoryTranslations={
     "materialLabel": "材料性能",
     "materialDesc": "搜索材料和合金。比较成分及物理、机械、热学和电学性能，附来源和参考条件。",
     "springLabel": "弹簧工程",
-    "springDesc": "设计压缩、拉伸和扭转弹簧。查看尺寸图、运动和载荷曲线，并导出报告。"
+    "springDesc": "设计压缩、拉伸和扭转弹簧。查看尺寸图、运动和载荷曲线，并导出报告。",
+    "fitLabel": "配合与公差",
+    "fitDesc": "比较轴孔配合。查询偏差、极限尺寸、间隙与过盈，查看图表和装配模拟。"
   },
   "hi-IN": {
     "eyebrow": "आपकी डिजिटल कार्यमेज़",
@@ -222,7 +230,9 @@ window.FactoryTranslations={
     "materialLabel": "पदार्थों के गुण",
     "materialDesc": "पदार्थ और मिश्रधातु खोजें। संरचना तथा भौतिक, यांत्रिक, तापीय और विद्युत गुण स्रोत और संदर्भ स्थितियों सहित तुलना करें।",
     "springLabel": "स्प्रिंग इंजीनियरिंग",
-    "springDesc": "संपीड़न, तनाव और मरोड़ स्प्रिंग के आयाम तय करें। आयाम वाले चित्र, गति और भार वक्र देखें और रिपोर्ट निर्यात करें।"
+    "springDesc": "संपीड़न, तनाव और मरोड़ स्प्रिंग के आयाम तय करें। आयाम वाले चित्र, गति और भार वक्र देखें और रिपोर्ट निर्यात करें।",
+    "fitLabel": "फिट और सहनशीलता",
+    "fitDesc": "शाफ्ट और छेद के फिट की तुलना करें। विचलन, आयामी सीमाएँ, अंतर और इंटरफेरेंस देखें, ग्राफ और असेंबली सिमुलेशन के साथ।"
   },
   "ar-SA": {
     "eyebrow": "طاولة عملك الرقمية",
@@ -267,7 +277,9 @@ window.FactoryTranslations={
     "materialLabel": "خصائص المواد",
     "materialDesc": "ابحث عن المواد والسبائك. قارن التركيب والخصائص الفيزيائية والميكانيكية والحرارية والكهربائية مع المصادر والشروط المرجعية.",
     "springLabel": "هندسة النوابض",
-    "springDesc": "صمّم نوابض الضغط والشد واللي. استكشف الرسومات ذات الأبعاد والحركة ومنحنيات الحمل وصدّر التقرير."
+    "springDesc": "صمّم نوابض الضغط والشد واللي. استكشف الرسومات ذات الأبعاد والحركة ومنحنيات الحمل وصدّر التقرير.",
+    "fitLabel": "التوافقات والتفاوتات",
+    "fitDesc": "قارن توافق المحور والثقب. استعرض الانحرافات وحدود الأبعاد والخلوص والتداخل مع رسم ومحاكاة للتجميع."
   },
   "fr-FR": {
     "eyebrow": "VOTRE ÉTABLI NUMÉRIQUE",
@@ -312,7 +324,9 @@ window.FactoryTranslations={
     "materialLabel": "PROPRIÉTÉS DES MATÉRIAUX",
     "materialDesc": "Recherchez des matériaux et alliages. Comparez composition et propriétés physiques, mécaniques, thermiques et électriques, avec sources et conditions.",
     "springLabel": "INGÉNIERIE DES RESSORTS",
-    "springDesc": "Dimensionnez les ressorts de compression, traction et torsion. Explorez dessins cotés, mouvement et courbes de charge, avec rapport exportable."
+    "springDesc": "Dimensionnez les ressorts de compression, traction et torsion. Explorez dessins cotés, mouvement et courbes de charge, avec rapport exportable.",
+    "fitLabel": "AJUSTEMENTS ET TOLÉRANCES",
+    "fitDesc": "Comparez les ajustements arbre/alésage. Consultez écarts, limites, jeux et serrages, avec graphique et simulation de montage."
   },
   "bn-BD": {
     "eyebrow": "আপনার ডিজিটাল কর্মশালা",
@@ -357,7 +371,9 @@ window.FactoryTranslations={
     "materialLabel": "পদার্থের ধর্ম",
     "materialDesc": "পদার্থ ও সংকর খুঁজুন। উৎস ও নির্দেশক শর্তসহ গঠন এবং ভৌত, যান্ত্রিক, তাপীয় ও বৈদ্যুতিক ধর্ম তুলনা করুন।",
     "springLabel": "স্প্রিং প্রকৌশল",
-    "springDesc": "সংকোচন, টান ও মোচড় স্প্রিংয়ের মাত্রা নির্ধারণ করুন। মাত্রাসহ চিত্র, গতি ও লোড বক্ররেখা দেখুন এবং রিপোর্ট রপ্তানি করুন।"
+    "springDesc": "সংকোচন, টান ও মোচড় স্প্রিংয়ের মাত্রা নির্ধারণ করুন। মাত্রাসহ চিত্র, গতি ও লোড বক্ররেখা দেখুন এবং রিপোর্ট রপ্তানি করুন।",
+    "fitLabel": "ফিট ও সহনশীলতা",
+    "fitDesc": "শ্যাফট ও ছিদ্রের ফিট তুলনা করুন। বিচ্যুতি, মাত্রার সীমা, ফাঁক ও ইন্টারফেরেন্স দেখুন, গ্রাফ ও সমাবেশ অনুকরণসহ।"
   },
   "ru-RU": {
     "eyebrow": "ВАШ ЦИФРОВОЙ ВЕРСТАК",
@@ -402,7 +418,9 @@ window.FactoryTranslations={
     "materialLabel": "СВОЙСТВА МАТЕРИАЛОВ",
     "materialDesc": "Ищите материалы и сплавы. Сравнивайте состав, физические, механические, тепловые и электрические свойства с источниками и условиями.",
     "springLabel": "РАСЧЁТ ПРУЖИН",
-    "springDesc": "Расчёт пружин сжатия, растяжения и кручения. Размерные чертежи, движение и нагрузочные кривые с экспортом отчёта."
+    "springDesc": "Расчёт пружин сжатия, растяжения и кручения. Размерные чертежи, движение и нагрузочные кривые с экспортом отчёта.",
+    "fitLabel": "ПОСАДКИ И ДОПУСКИ",
+    "fitDesc": "Сравните посадки вала и отверстия. Отклонения, предельные размеры, зазоры и натяги с графиком и моделированием сборки."
   },
   "de-DE": {
     "eyebrow": "IHRE DIGITALE WERKBANK",
@@ -447,7 +465,9 @@ window.FactoryTranslations={
     "materialLabel": "WERKSTOFFEIGENSCHAFTEN",
     "materialDesc": "Werkstoffe und Legierungen suchen. Zusammensetzung und physikalische, mechanische, thermische und elektrische Eigenschaften mit Quellen und Bedingungen vergleichen.",
     "springLabel": "FEDERTECHNIK",
-    "springDesc": "Druck-, Zug- und Torsionsfedern dimensionieren. Bemaßte Zeichnungen, Bewegung und Lastkennlinien mit exportierbarem Bericht."
+    "springDesc": "Druck-, Zug- und Torsionsfedern dimensionieren. Bemaßte Zeichnungen, Bewegung und Lastkennlinien mit exportierbarem Bericht.",
+    "fitLabel": "PASSUNGEN UND TOLERANZEN",
+    "fitDesc": "Wellen- und Bohrungspassungen vergleichen. Abmaße, Grenzmaße, Spiel und Übermaß mit Diagramm und Montagesimulation."
   },
   "it-IT": {
     "eyebrow": "IL TUO BANCO DI LAVORO DIGITALE",
@@ -492,7 +512,9 @@ window.FactoryTranslations={
     "materialLabel": "PROPRIETÀ DEI MATERIALI",
     "materialDesc": "Cerca materiali e leghe. Confronta composizione e proprietà fisiche, meccaniche, termiche ed elettriche, con fonti e condizioni di riferimento.",
     "springLabel": "INGEGNERIA DELLE MOLLE",
-    "springDesc": "Dimensiona molle di compressione, trazione e torsione. Esplora disegni quotati, movimento e curve di carico, con report esportabile."
+    "springDesc": "Dimensiona molle di compressione, trazione e torsione. Esplora disegni quotati, movimento e curve di carico, con report esportabile.",
+    "fitLabel": "ACCOPPIAMENTI E TOLLERANZE",
+    "fitDesc": "Confronta accoppiamenti albero/foro. Consulta scostamenti, limiti, giochi e interferenze, con grafico e simulazione di montaggio."
   },
   "ja-JP": {
     "eyebrow": "あなたのデジタル作業台",
@@ -537,6 +559,8 @@ window.FactoryTranslations={
     "materialLabel": "材料特性",
     "materialDesc": "材料や合金を検索。組成と物理・機械・熱・電気特性を、出典や基準条件とともに比較できます。",
     "springLabel": "ばね設計",
-    "springDesc": "圧縮・引張・ねじりばねの寸法を設計。寸法図、動作、荷重曲線を確認し、レポートを出力。"
+    "springDesc": "圧縮・引張・ねじりばねの寸法を設計。寸法図、動作、荷重曲線を確認し、レポートを出力。",
+    "fitLabel": "はめあいと公差",
+    "fitDesc": "軸と穴のはめあいを比較。許容差、限界寸法、すきま、しめしろを図と組立シミュレーションで確認。"
   }
 };
